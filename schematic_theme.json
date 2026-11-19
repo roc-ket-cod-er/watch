@@ -1202,7 +1202,7 @@
           },
           "text": {
             "type": "updated",
-            "data": "#4444FF"
+            "data": "#6699FF"
           },
           "table": {
             "type": "updated",
@@ -9204,7 +9204,7 @@
         },
         {
           "hotkeyCmd": "rotate_left",
-          "hotkey": "Ctrl+Space",
+          "hotkey": "R",
           "range": [
             10,
             2,
@@ -10248,7 +10248,7 @@
         },
         {
           "hotkeyCmd": "openMenu(#mm-common-fabrication2)",
-          "hotkey": "R",
+          "hotkey": "",
           "range": [
             2,
             4,
@@ -10267,7 +10267,8 @@
           ],
           "funcE": "Export Menu",
           "hotkeyEditDisable": false,
-          "cmdEditDisable": true
+          "cmdEditDisable": true,
+          "command": ""
         },
         {
           "hotkeyCmd": "exportBOM",
